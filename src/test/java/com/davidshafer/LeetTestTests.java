@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
-public class Tests {
+public class LeetTestTests {
 
     @Test
     public void Exercise01_Two_Sum(){

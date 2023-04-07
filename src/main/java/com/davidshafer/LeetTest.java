@@ -2,10 +2,10 @@ package com.davidshafer;
 
 public class LeetTest {
     /*
-    Given an array of integers (nums) and an integer (target), return two indices that add up to target.
-    You may assume that each input would have exactly one solution.
-    You may not use the same element twice.
-    The indices should be in ascending order.
+    Given an array of integers (nums) and an integer (target), return two num indices that add up to the target.
+    - You may assume that each input would have exactly one solution.
+    - You may not use the same element twice.
+    - The indices should be in ascending order.
      */
     public int[] twoSum(int[] nums, int target) {
         int[] answer = new int[2];
